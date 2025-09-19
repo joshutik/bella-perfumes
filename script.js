@@ -20,4 +20,3 @@
       console.error("Error:", err);
     });
   });
-</script>
